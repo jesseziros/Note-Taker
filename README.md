@@ -21,6 +21,8 @@
 
   ## Usage
   When the application is loaded it will take you to a home screen where you will click a button to take you to the note taking page. From there you can create new notes, inspect the notes created, and delete them when necessary.
+  
+  ![Screenshot](image/screenshot.png)
 
   ## Questions
   If you have any questions contact me at:
